@@ -5,27 +5,27 @@
       {
         "name": "Hagia Sophia",
         "description": "Hagia Sophia is a historic mosque in Istanbul, built in 537 AD as a Greek Orthodox cathedral, later an Ottoman imperial mosque, and now a museum.",
-        
+        "image_url": "https://example.com/hagia_sophia.jpg"
       },
       {
         "name": "Topkapi Palace",
         "description": "Topkapi Palace is a large museum in Istanbul that served as the main residence and administrative headquarters of the Ottoman sultans.",
-       
+        "image_url": "https://example.com/topkapi_palace.jpg"
       },
       {
         "name": "Blue Mosque",
         "description": "The Blue Mosque, also known as the Sultan Ahmed Mosque, is an Ottoman-era historical imperial mosque located in Istanbul.",
-       
+        "image_url": "https://example.com/blue_mosque.jpg"
       },
       {
         "name": "Grand Bazaar",
         "description": "The Grand Bazaar in Istanbul is one of the largest and oldest covered markets in the world, with 61 covered streets and over 4,000 shops.",
-      
+        "image_url": "https://example.com/grand_bazaar.jpg"
       },
       {
         "name": "Bosphorus",
         "description": "The Bosphorus is a narrow, natural strait and an internationally significant waterway located in northwestern Turkey, forming part of the continental boundary between Europe and Asia.",
-       
+        "image_url": "https://example.com/bosphorus.jpg"
       }
     ]
   }
