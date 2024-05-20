@@ -1,31 +1,14 @@
 {
-    "city": "Istanbul",
-    "description": "Istanbul is a major city in Turkey that straddles Europe and Asia across the Bosphorus Strait. Its Old City reflects cultural influences of the many empires that once ruled here.",
-    "highlights": [
+    "istanbul": [
       {
-        "name": "Hagia Sophia",
-        "description": "Hagia Sophia is a historic mosque in Istanbul, built in 537 AD as a Greek Orthodox cathedral, later an Ottoman imperial mosque, and now a museum.",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/K%C3%A9k_Mecset_-_2014.10.23.JPG"
+        "isim": "Hagia Sophia",
+        "aciklama": "Hagia Sophia is a historic mosque in Istanbul, built in 537 AD as a Greek Orthodox cathedral, later an Ottoman imperial mosque, and now a museum.",
+        "fotourl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/K%C3%A9k_Mecset_-_2014.10.23.JPG"
       },
       {
-        "name": "Topkapi Palace",
-        "description": "Topkapi Palace is a large museum in Istanbul that served as the main residence and administrative headquarters of the Ottoman sultans.",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Istanbul.Topkapi036.jpg"
-      },
-      {
-        "name": "Blue Mosque",
-        "description": "The Blue Mosque, also known as the Sultan Ahmed Mosque, is an Ottoman-era historical imperial mosque located in Istanbul.",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Exterior_of_Sultan_Ahmed_I_Mosque_in_Istanbul%2C_Turkey_002.jpg"
-      },
-      {
-        "name": "Grand Bazaar",
-        "description": "The Grand Bazaar in Istanbul is one of the largest and oldest covered markets in the world, with 61 covered streets and over 4,000 shops.",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Grand_Bazaar_01.JPG"
-      },
-      {
-        "name": "Bosphorus",
-        "description": "The Bosphorus is a narrow, natural strait and an internationally significant waterway located in northwestern Turkey, forming part of the continental boundary between Europe and Asia.",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Istanbul_and_Bosporus_big.jpg"
+        "isim": "Bosphorus",
+        "aciklama": "The Bosphorus is a narrow, natural strait and an internationally significant waterway located in northwestern Turkey, forming part of the continental boundary between Europe and Asia.",
+        "fotourl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Istanbul_and_Bosporus_big.jpg"
       }
     ]
   }
